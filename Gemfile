@@ -75,3 +75,6 @@ end
 
 # Others
 gem 'ffi'
+
+# REACT Integration Gems
+gem 'react-rails'
